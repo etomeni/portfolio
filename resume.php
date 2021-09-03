@@ -20,7 +20,7 @@
         <div class="header-intro header-intro-resume theme-bg-primary text-white py-5">
 	        <div class="container position-relative">
 		        <h2 class="page-heading mb-3">Resume</h2>
-		        <a class="btn theme-btn-on-bg download-resume position-absolute font-weight-bold mx-auto" href="#" target="_blank"><i class="fas fa-download me-2"></i>Download PDF Version</a>
+		        <a class="btn theme-btn-on-bg download-resume position-absolute font-weight-bold mx-auto" href="assets/Resume.pdf" target="_blank"><i class="fas fa-download me-2"></i>Download PDF Version</a>
 	        </div><!--//container-->
         </div><!--//header-intro-->
         
